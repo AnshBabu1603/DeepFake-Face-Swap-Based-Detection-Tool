@@ -1,3 +1,3 @@
 
 // API Configuration
-export const API_BASE_URL = 'https://83be-2409-4055-582-84a0-94ca-d269-3a6e-6bd.ngrok-free.app';
+export const API_BASE_URL = 'https://5e93-2409-4055-2e49-1846-3442-96f-7bd8-a17f.ngrok-free.app';
